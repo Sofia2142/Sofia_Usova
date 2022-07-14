@@ -1,0 +1,323 @@
+16:56:28 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+16:56:28 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+16:56:28 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+16:56:28 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+16:56:28 | INFO | start_polling: 358 | Start polling.
+16:56:28 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+16:56:28 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+16:56:28 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:56:49 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:56:49 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:57:09 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:57:09 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:57:29 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:57:29 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:57:49 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:57:49 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:58:09 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:58:09 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:58:29 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:58:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:58:50 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:58:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:59:10 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:59:10 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:59:30 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:59:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+16:59:50 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+16:59:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:00:10 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:00:11 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:00:31 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:00:31 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:00:50 | INFO | stop_polling: 433 | Stop polling...
+17:00:50 | WARNING | start_polling: 329 | Goodbye!
+17:00:52 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+17:00:52 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+17:00:53 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+17:00:53 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+17:00:53 | INFO | start_polling: 358 | Start polling.
+17:00:53 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+17:00:54 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+17:00:54 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:00:55 | INFO | stop_polling: 433 | Stop polling...
+17:00:55 | WARNING | start_polling: 329 | Goodbye!
+17:00:57 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+17:00:57 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+17:00:57 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+17:00:57 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+17:00:57 | INFO | start_polling: 358 | Start polling.
+17:00:57 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+17:00:57 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+17:00:57 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:01:17 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:01:17 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:01:37 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:01:37 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:01:58 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:01:58 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:02:18 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:02:18 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:02:38 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:02:38 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:02:58 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:02:58 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:03:18 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:03:18 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:03:38 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:03:38 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:03:59 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:03:59 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:04:19 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:04:19 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+17:04:39 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+17:04:39 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+14:56:06 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+14:56:06 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+14:56:07 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+14:56:07 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+14:56:07 | INFO | start_polling: 358 | Start polling.
+14:56:07 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+14:56:07 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":1}}'"
+14:56:07 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+14:56:07 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[{"update_id":485336554,\n"message":{"message_id":7,"from":{"id":1102487127,"is_bot":false,"first_name":"...","username":"soooyaan","language_code":"ru"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657650167,"text":"\\u041f\\u0440\\u0438\\u0432\\u0435\\u0442"}}]}'"
+14:56:07 | DEBUG | start_polling: 395 | Received 1 updates.
+14:56:07 | DEBUG | make_request: 133 | Make request: "sendMessage" with data: "{'chat_id': 1102487127, 'text': 'Привет'}" and files "None"
+14:56:07 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:56:07 | DEBUG | check_result: 95 | Response for sendMessage: [200] "'{"ok":true,"result":{"message_id":8,"from":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657713366,"text":"\\u041f\\u0440\\u0438\\u0432\\u0435\\u0442"}}'"
+14:56:27 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:56:27 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:56:47 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:56:47 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:57:07 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:57:08 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:57:28 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:57:28 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:57:48 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:57:48 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:58:08 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:58:08 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:58:28 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:58:28 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:58:48 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:58:48 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:59:09 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:59:09 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:59:29 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:59:29 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+14:59:49 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+14:59:49 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:00:09 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:00:09 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:00:29 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:00:29 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:00:49 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:00:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:01:10 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:01:10 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:01:30 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:01:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:01:50 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:01:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:02:10 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:02:10 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:02:30 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:02:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:02:51 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:02:51 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:03:11 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:03:11 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:03:31 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:03:31 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336555, 'timeout': 20}" and files "None"
+15:03:34 | INFO | stop_polling: 433 | Stop polling...
+15:03:34 | WARNING | start_polling: 329 | Goodbye!
+15:03:36 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+15:03:36 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+15:03:36 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+15:03:36 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+15:03:36 | INFO | start_polling: 358 | Start polling.
+15:03:36 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+15:03:36 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+15:03:36 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+15:03:50 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[{"update_id":485336555,\n"message":{"message_id":9,"from":{"id":1102487127,"is_bot":false,"first_name":"...","username":"soooyaan","language_code":"ru"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657713829,"text":"sds"}}]}'"
+15:03:50 | DEBUG | start_polling: 395 | Received 1 updates.
+15:03:50 | DEBUG | make_request: 133 | Make request: "sendMessage" with data: "{'chat_id': 1102487127, 'text': 'sds'}" and files "None"
+15:03:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336556, 'timeout': 20}" and files "None"
+15:03:50 | DEBUG | check_result: 95 | Response for sendMessage: [200] "'{"ok":true,"result":{"message_id":10,"from":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657713829,"text":"sds"}}'"
+15:04:10 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:04:10 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336556, 'timeout': 20}" and files "None"
+15:04:30 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:04:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336556, 'timeout': 20}" and files "None"
+15:04:51 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:04:51 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336556, 'timeout': 20}" and files "None"
+15:05:11 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:05:11 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336556, 'timeout': 20}" and files "None"
+15:05:24 | INFO | stop_polling: 433 | Stop polling...
+15:05:24 | WARNING | start_polling: 329 | Goodbye!
+15:12:50 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+15:12:50 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+15:12:50 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+15:12:50 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+15:12:50 | INFO | start_polling: 358 | Start polling.
+15:12:50 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+15:12:50 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+15:12:50 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+15:12:53 | INFO | stop_polling: 433 | Stop polling...
+15:12:53 | WARNING | start_polling: 329 | Goodbye!
+15:39:01 | DEBUG | __init__: 623 | Using proactor: IocpProactor
+15:39:01 | DEBUG | make_request: 133 | Make request: "getMe" with data: "{}" and files "None"
+15:39:01 | DEBUG | check_result: 95 | Response for getMe: [200] "'{"ok":true,"result":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot","can_join_groups":true,"can_read_all_group_messages":false,"supports_inline_queries":false}}'"
+15:39:01 | INFO | _welcome: 362 | Bot: Testo [@testo_444421_bot]
+15:39:01 | INFO | start_polling: 358 | Start polling.
+15:39:01 | DEBUG | make_request: 133 | Make request: "getWebhookInfo" with data: "{}" and files "None"
+15:39:01 | DEBUG | check_result: 95 | Response for getWebhookInfo: [200] "'{"ok":true,"result":{"url":"","has_custom_certificate":false,"pending_update_count":0}}'"
+15:39:01 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+15:39:21 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[]}'"
+15:39:21 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'timeout': 20}" and files "None"
+15:39:25 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[{"update_id":485336556,\n"message":{"message_id":11,"from":{"id":1102487127,"is_bot":false,"first_name":"...","username":"soooyaan","language_code":"ru"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657715964,"text":"\\u043f\\u0440"}}]}'"
+15:39:25 | DEBUG | start_polling: 395 | Received 1 updates.
+15:39:25 | DEBUG | make_request: 133 | Make request: "sendMessage" with data: "{'chat_id': 1102487127, 'text': 'пр'}" and files "None"
+15:39:25 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336557, 'timeout': 20}" and files "None"
+15:39:25 | DEBUG | check_result: 95 | Response for sendMessage: [200] "'{"ok":true,"result":{"message_id":12,"from":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657715965,"text":"\\u043f\\u0440"}}'"
+15:39:35 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:39:35 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:39:41 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336557, 'timeout': 20}" and files "None"
+15:39:41 | DEBUG | check_result: 95 | Response for getUpdates: [200] "'{"ok":true,"result":[{"update_id":485336557,\n"message":{"message_id":13,"from":{"id":1102487127,"is_bot":false,"first_name":"...","username":"soooyaan","language_code":"ru"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657715980,"text":"\\u0435\\u043a"}}]}'"
+15:39:41 | DEBUG | start_polling: 395 | Received 1 updates.
+15:39:41 | DEBUG | make_request: 133 | Make request: "sendMessage" with data: "{'chat_id': 1102487127, 'text': 'ек'}" and files "None"
+15:39:41 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:39:41 | DEBUG | check_result: 95 | Response for sendMessage: [200] "'{"ok":true,"result":{"message_id":14,"from":{"id":5450561630,"is_bot":true,"first_name":"Testo","username":"testo_444421_bot"},"chat":{"id":1102487127,"first_name":"...","username":"soooyaan","type":"private"},"date":1657715980,"text":"\\u0435\\u043a"}}'"
+15:39:46 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:39:46 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:39:51 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:39:56 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:39:56 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:01 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:40:06 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:40:06 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:11 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:40:14 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:40:14 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:19 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:40:25 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:40:25 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:30 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:40:35 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:40:35 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:40 | DEBUG | make_request: 133 | Make request: "getUpdates" with data: "{'offset': 485336558, 'timeout': 20}" and files "None"
+15:40:45 | DEBUG | check_result: 95 | Response for getUpdates: [409] "'{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}'"
+15:40:45 | ERROR | start_polling: 390 | Cause exception while getting updates.
+Traceback (most recent call last):
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "Z:\Troshkin Artem\Sofia_Usova\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+15:40:45 | INFO | stop_polling: 433 | Stop polling...
+15:40:45 | WARNING | start_polling: 329 | Goodbye!
