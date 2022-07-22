@@ -50,21 +50,16 @@ async def load_site_info():
 
             except Exception as ex:
                 print(f'Error: {repr(ex)}')
+
         tasks = []
         for page in range(count_of_page - 10, count_of_page):
             task_1 = asyncio.create_task(get_page_info(session=session, page=page, start_page=count_of_page))
             tasks.append(task_1)
+
         await asyncio.gather(*tasks)
 
 
 async def run_tasks():
     global jokes_list
-
     await load_site_info()
-    for joke in jokes_list:
-        print(joke, '\n\n')
-    print(len(jokes_list))
-
-
-if __name__ == '__main__':
-    result = asyncio.get_event_loop().run_until_complete(run_tasks())
+    return jokes_list
